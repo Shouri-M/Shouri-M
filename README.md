@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/Shouri-M/Shouri-M/blob/main/gif1.gif">
 
-- 🔭 I’m currently working on **EVM, machine learning, finance.**
+- 🔭 I’m currently working on **EVM, machine learning, bit of finance.**
 
 - 👯 I’m looking to collaborate on **projects that test multiple skills**
 
