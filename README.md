@@ -5,6 +5,8 @@
 
  I have worked on different projects over the last few years where I did dedicated research work on them. The tools mentioned below are those that have been used in previous research or coursework projects and those that I am comfortable building with.
 
+<img align="right" alt="coding" width="400" src="https://github.com/Shouri-M/Shouri-M/blob/main/gif1.gif">
+
 - 🔭 I’m currently working on **EVM, machine learning, finance.**
 
 - 👯 I’m looking to collaborate on **projects that test multiple skills**
